@@ -1,0 +1,2 @@
+include ':app', ':applog-core'
+rootProject.name='applog'
